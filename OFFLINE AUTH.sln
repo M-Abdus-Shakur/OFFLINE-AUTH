@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OFFLINE AUTH", "OFFLINE AUTH\OFFLINE AUTH.csproj", "{8C97FB01-5428-47CD-94B9-8D25FA3F77D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C97FB01-5428-47CD-94B9-8D25FA3F77D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C97FB01-5428-47CD-94B9-8D25FA3F77D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C97FB01-5428-47CD-94B9-8D25FA3F77D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C97FB01-5428-47CD-94B9-8D25FA3F77D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D99712F8-5632-4410-93E9-696152ED0B5D}
+	EndGlobalSection
+EndGlobal
